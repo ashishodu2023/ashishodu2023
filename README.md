@@ -3,7 +3,7 @@
 
 I build agentic AI and data platforms that hold up in production — LangGraph/MCP agents, enterprise RAG, anomaly detection, and LLMOps — and ship the same rigor in open source.
 
-[Portfolio](https://ashishodu2023.github.io/) · [LinkedIn](https://www.linkedin.com/in/ashish-verma-7a99a818) · [Email](mailto:ashishn87@gmail.com) · [Resume](https://ashishodu2023.github.io/Ashish_Verma_Resume.pdf)
+[Portfolio](https://ashishodu2023.github.io/) · [LinkedIn](https://www.linkedin.com/in/ashish-v-7a99a818/) · [Email](mailto:ashishn87@gmail.com) · [Resume](https://ashishodu2023.github.io/Ashish_Verma_Resume.pdf)
 
 ---
 
